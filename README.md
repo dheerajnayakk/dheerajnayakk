@@ -19,17 +19,18 @@ I'm a passionate **Software Engineer** who enjoys building full-stack applicatio
 Java, JavaScript, Python, HTML, CSS, SQL
 
 **Frameworks & Libraries:**  
-React.js, Node.js, NumPy, MatPlotLib
+React.js, Node.js, NumPy, MatPlotLib, Pandas
 
 **Tools & Platforms:**  
-Git, GitHub, VS Code, IntelliJ, Postman, MySQL, MongoDB
+Git, GitHub, VS Code, IntelliJ, MySQL, MongoDB, MS Office
 
 ---
 
 ## 📫 Contact Me
 
 - ✉️ Email: dheerajnayak2004@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/dheerajnayakk)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dheerajnayakk)
+- 💼 X (Twitter): [X](https://www.x.com/dheerajnayakkkk)
 
 Thanks for stopping by!
 
