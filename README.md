@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate **Software Engineer** who enjoys building full-stack applications, solving algorithmic problems, and exploring new technologies. Currently, I’m focused on improving my skills in **Java**, **React**, and **Database**.
+I'm a passionate **Computer Science Engineering Student** who enjoys solving algorithmic problems, and exploring new technologies. Currently, I’m focused on improving my skills in **Java**, **React**, and **Database**.
 
 ---
 
