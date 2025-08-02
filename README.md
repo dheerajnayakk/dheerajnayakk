@@ -26,17 +26,10 @@ Git, GitHub, VS Code, IntelliJ, Postman, MySQL, MongoDB
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub stats are optional but add a nice touch -->
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=prs&count_private=true)
-
----
-
 ## 📫 Contact Me
 
 - ✉️ Email: dheerajnayak2004@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/dheerajnayakk)
+- 💼 LinkedIn[LinkedIn](https://www.linkedin.com/in/dheerajnayakk)
 
 Thanks for stopping by!
 
