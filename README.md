@@ -29,7 +29,7 @@ Git, GitHub, VS Code, IntelliJ, Postman, MySQL, MongoDB
 ## 📫 Contact Me
 
 - ✉️ Email: dheerajnayak2004@gmail.com
-- 💼 LinkedIn[LinkedIn](https://www.linkedin.com/in/dheerajnayakk)
+- 💼 LinkedIn: (https://www.linkedin.com/in/dheerajnayakk)
 
 Thanks for stopping by!
 
