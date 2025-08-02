@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Dheeraj 👋
 
-<!--
-**dheerajnayakk/dheerajnayakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a passionate **Software Engineer** who enjoys building full-stack applications, solving algorithmic problems, and exploring new technologies. Currently, I’m focused on improving my skills in **Java**, **React**, and **Database**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 Always learning something new: Backend systems, and scalable app design.
+- 💡 Interested in Java ecosystems, web technologies, and building real-world apps.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+Java, JavaScript, Python, HTML, CSS, SQL
+
+**Frameworks & Libraries:**  
+React.js, Node.js, NumPy, MatPlotLib
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, IntelliJ, Postman, MySQL, MongoDB
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub stats are optional but add a nice touch -->
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=prs&count_private=true)
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: dheerajnayak2004@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dheerajnayakk)
+
+Thanks for stopping by!
+
+---
