@@ -31,7 +31,7 @@ I'm a passionate **Computer Science Engineering student** who enjoys solving alg
 
 - 📧 [dheerajnayak2004@gmail.com](mailto:dheerajnayak2004@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dheerajnayakk)
-- 🐦 [Twitter (X)](https://www.x.com/dheerajnayakkkk)
+- 🐦 [X (Twitter)](https://www.x.com/dheerajnayakkkk)
 
 ---
 
