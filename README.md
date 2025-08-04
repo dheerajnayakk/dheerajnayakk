@@ -35,4 +35,4 @@ I'm a passionate **Computer Science Engineering student** who enjoys solving alg
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my pinned projects or connect with me._
+_Thanks for visiting my profile! Feel free to check out my repositories or connect with me._
